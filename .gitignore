@@ -1,5 +1,5 @@
 *.class
-
+org.eclipse.jdt.core.prefs
 *.classpath
 *.project
 *.txt
