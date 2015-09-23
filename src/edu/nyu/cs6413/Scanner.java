@@ -9,10 +9,6 @@ import java.io.PushbackReader;
  * @author lxp19
  *
  */
-/**
- * @author lxp19
- *
- */
 public class Scanner {
 	
 	private static final char EndOfFile = '\0';
